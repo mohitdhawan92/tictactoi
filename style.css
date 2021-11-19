@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: rgb(37, 9, 37);
+    color: white;
+    height: 30px;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    padding-top: 3%;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+
+*{
+  font-size: 45px;
+  
+}
+.game:hover{
+  background-color: rgb(92, 201, 49);
+}
+
+h6{
+  font-family: cursive;
+}
+.container{
+  padding-top: 10%;
+}
+
+#restart {
+  font-size: 16px;
+  background-color: darkgreen;
+}
+
+#demo{
+  font-size: 28px;
+  padding: 10px;
+  margin-left: 130px;
+  width: 50%;
+}
+body{
+  background-image: url(./img/maxim-berg-qHJiyaCTVPw-unsplash\ \(2\).jpg);
+  backdrop-filter: blur(3px);
+}
+
+.btn-group > button {
+    width: 150px;
+    height: 150px;
+}
+.container text-center{
+  background-color: darkgreen;
+}
